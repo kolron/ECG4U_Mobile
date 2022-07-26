@@ -1,0 +1,19 @@
+{"results": [
+  {
+    "classification": "lvbb",
+    "result": true
+  },
+  {
+    "classification": "rvbb",
+    "result": false
+  },
+  {
+    "classification": "normal",
+    "result": false
+  },
+  {
+    "classification": "afib",
+    "result": true
+  }
+]
+}
